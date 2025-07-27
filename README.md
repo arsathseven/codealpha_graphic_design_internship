@@ -1,10 +1,4 @@
 # codealpha_graphic_design_internship
-My internship project submissions for CodeAlpha Graphic Designing domain
-# CodeAlpha Graphic Designing Internship
-
-This repository includes my 4 task submissions for the **Graphic Designing Internship at CodeAlpha**.
-
----
 
 ## ✅ Task 1: Logo Redesign
 
