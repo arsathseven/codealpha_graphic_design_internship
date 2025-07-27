@@ -1,64 +1,27 @@
-# codealpha_graphic_design_internship
+# CodeAlpha Graphic Designing Internship
+
+This repository contains all 4 task submissions for the CodeAlpha Graphic Design Internship.
+
+---
 
 ## ✅ Task 1: Logo Redesign
-
-### 🔍 Objective:
-Redesign the CodeAlpha logo with a fresh, modern identity.
-
-### 🧠 Design Logic:
-- Used abstract "C" shape
-- Flat, minimal design
-- Usable on dark and light backgrounds
-
-### 🛠 Tools Used:
-Figma, Canva
-
-### 📁 File:
-`task1.png`
-
----
+![Logo Redesign](./task1.png)
 
 ## ✅ Task 2: UI/UX Design
-
-### 🔍 Objective:
-Create UI screens for a mobile food delivery app.
-
-### 🧠 Features:
-- Home, Product List, Cart, Checkout
-- Focused on user flow and clean layout
-
-### 🛠 Tools Used:
-Figma
-
-### 📁 File:
-`task2.png`
-
----
+![UI Design](./task2.png)
 
 ## ✅ Task 3: Typography Practice
+![Typography](./task3.png)
 
-### 🔍 Objective:
-Design a typographic poster using font pairing and spacing.
-
-### 🧠 Concept:
-- Bold serif + light sans-serif combo
-- Proper alignment and white space
-
-### 🛠 Tools Used:
-Canva, Illustrator
-
-### 📁 File:
-`task3.png`
+## ✅ Task 4: Storyboarding
+![Storyboard](./task4.png)
 
 ---
 
-## ✅ Task 4: Storyboarding Design
-
-### 🔍 Objective:
-Storyboard a user's journey in an app (from login to order tracking).
-
 ### 🛠 Tools Used:
-Canva, Storyboard That
+- Canva
+- Figma
+- Illustrator
+- Storyboard That
 
-### 📁 File:
-`task4.png`
+✅ Completed all 4 tasks and submitted successfully.
