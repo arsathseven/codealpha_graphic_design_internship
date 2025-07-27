@@ -20,7 +20,7 @@ Redesign the CodeAlpha logo with a fresh, modern identity.
 Figma, Canva
 
 ### 📁 File:
-`task1_logo_redesign.png`
+`task1.png`
 
 ---
 
@@ -37,7 +37,7 @@ Create UI screens for a mobile food delivery app.
 Figma
 
 ### 📁 File:
-`task2_ui_ux_design.png`
+`task2.png`
 
 ---
 
@@ -54,7 +54,7 @@ Design a typographic poster using font pairing and spacing.
 Canva, Illustrator
 
 ### 📁 File:
-`task3_typography.png`
+`task3.png`
 
 ---
 
@@ -67,12 +67,4 @@ Storyboard a user's journey in an app (from login to order tracking).
 Canva, Storyboard That
 
 ### 📁 File:
-`task4_storyboard.png`
-
----
-
-## 📤 Submission
-
-- ✅ All 4 tasks completed
-- ✅ Each task includes PNG output
-- ✅ Tools used: Figma, Canva, Illustrator
+`task4.png`
